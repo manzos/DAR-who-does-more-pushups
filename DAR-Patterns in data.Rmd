@@ -50,7 +50,7 @@ myex <- gplot(push-ups,acs(x=position, y= pushups) myex + geom_boxplot myex + ge
 bwplot (pushups~position, data=pushups)
 ```
 
-Based on the boxplot, the line players did about 24 pushups, as apposed to the skill players who did about 59 pushups. Therefore, we can say that the skill players did more puishups than the line players on average. 
+Based on the boxplot, the skill players are well above the 50 percentile and the skill players are bellow the 75 percentile. Therefore, we can say that the skill players did more puishups than the line players on average. 
 
 
 
@@ -72,4 +72,4 @@ t.test (pushups~position, data=pushups)
 
 # Discussion and Conclusion
 <!--State your overall conclusion.  This is also a good place to mention other Research Questions that came to mind as you were carrying out this study.!-->
-In conclusion, the results to the research question based on all data and analysis states that the line players do more pushups than the skill players on average. The line players did 59 pushups and the skill players did 24 pushups.
+In conclusion, the results to the research question based on all data and analysis states that the skill players did more pushups than the line players on average. The line players were well above the 50 percentile than the line players. 
