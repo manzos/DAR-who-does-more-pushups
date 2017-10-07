@@ -69,9 +69,6 @@ ttest (weight-position, data=pushups)
 t.test (pushups~position, data=pushups)
 ```
 
-```
-
-```
 
 # Discussion and Conclusion
 <!--State your overall conclusion.  This is also a good place to mention other Research Questions that came to mind as you were carrying out this study.!-->
