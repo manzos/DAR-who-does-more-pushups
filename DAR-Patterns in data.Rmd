@@ -41,7 +41,7 @@ First i am going to do a variable analysis to analyze what information I need. I
 
 # Results
 <!--You have both graphical and numerical methods, so you will have both graphical and numerical results to consider.!-->
-
+Based on the results found in graphical results boxplot, the median found for the line players was 14.5 and the median found for the skill players was 47.5. Also, on average the line players did more pushups than the skill players according to the boxplot, 24 by the skill player and 49 for the line players. 
 
 ## Graphical Results
 <!--Your graph should have a good title, and axes should be labled as needed.  Discuss your graphical results, showing how they answer the research question.  Use specific features of the graph in your discussion.!-->
